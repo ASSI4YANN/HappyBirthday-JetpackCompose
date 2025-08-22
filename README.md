@@ -3,4 +3,4 @@
 des concepts que j'ai  appris jusqu'à 
 maintenant, avec Jetpack Compose.
 Il s'agit d'une application qui affiche "HAPPY BIRTHDAY" 
-avec une le mon d'une personne en dessous "EMMA"
+avec une le nom d'une personne en dessous "EMMA"
