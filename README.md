@@ -1,6 +1,6 @@
-
 #         HappyBirthday-JetpackCompose
- Salut, dans cet exercice, j'ai  appliquer la plupart 
+
+Salut moi c'est YANN ☻. Dans cet exercice, j'ai  appliquer la plupart 
 des concepts que j'ai  appris jusqu'à 
 maintenant, avec Jetpack Compose.
 Il s'agit d'une application qui affiche "HAPPY BIRTHDAY" 
